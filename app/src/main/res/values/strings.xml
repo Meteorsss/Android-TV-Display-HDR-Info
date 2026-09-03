@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">电视屏幕与 HDR 检测</string>
+    <string name="refresh">重新检测</string>
+</resources>
